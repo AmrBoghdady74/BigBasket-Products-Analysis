@@ -1,2 +1,13 @@
-# BigBasket-Products-Analysis
-E-commerce (electronic commerce) is the activity of electronically buying or selling of products on online services or over the Internet. E-commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems. E-commerce is in turn driven by the technological advances of the semiconductor industry, and is the largest sector of the electronics industry.  Bigbasket is the largest online grocery supermarket in India. Was launched somewhere around in 2011 since then they've been expanding their business. Though some new competitors have been able to set their foot in the nation such as Blinkit etc. but BigBasket has still not loose anything - thanks to ever expanding popular base and their shift to online buying.
+This dataset contains 10 attributes with simple meaning and which are described as follows:
+
+index - Simply the Index!
+product - Title of the product (as they're listed)
+category - Category into which product has been classified
+sub_category - Subcategory into which product has been kept
+brand - Brand of the product
+sale_price - Price at which product is being sold on the site
+market_price - Market price of the product
+type - Type into which product falls
+rating - Rating the product has got from its consumers
+description - Description of the dataset (in detail)
+While doing FE, "discount" can be created as (marketprice - saleprice)/ market_price * 100 which will help in getting what consumers are getting better here!
